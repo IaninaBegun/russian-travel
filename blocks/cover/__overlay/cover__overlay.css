@@ -27,3 +27,9 @@
   opacity: .8;
   transition: opacity;
 }
+
+@media screen and (max-width: 500px) {
+  .cover__overlay:hover::after {
+    display: none;
+  }
+}
