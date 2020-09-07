@@ -1,0 +1,49 @@
+.page {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  background-color: #2A2C2F;
+  color: white;
+  margin: 0 auto;
+  padding: 28px 48px 24px;
+  font-family: 'Inter', Arial, sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 900px) {
+  .page {
+    padding: 28px 30px 24px;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .page {
+    padding: 28px 27px 24px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+    padding: 28px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .page {
+    padding: 22px 20px 24px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .page {
+    padding: 20px 18px 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding: 16px 16px 24px;
+  }
+}
