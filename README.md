@@ -16,6 +16,6 @@
 Сайт создан с использованием HTML и CSS, без сторонних библиотек.
 
 
-**[Перейти на сайт](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)**
+**[Перейти на сайт](https://ianinabegun.github.io/russian-travel/index.html)**
 
 
