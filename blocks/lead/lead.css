@@ -1,14 +1,21 @@
 .lead {
-  width: 77%;
+  max-width: 984px;
   justify-self: center;
   justify-items: center;
   justify-content: center;
   box-sizing: border-box;
-  margin: 0 auto;
+  margin: 0 148px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    margin: 0 48px;
+  }
 }
 
 @media screen and (max-width: 768px) {
   .lead {
     width: 100%;
+    margin: 0;
   }
 }

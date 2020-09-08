@@ -1,9 +1,10 @@
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  width: 100%;
+  max-width: 1184px;
   gap: 16px;
   box-sizing: border-box;
+  margin: 0 48px;
 }
 
 @media screen and (max-width: 1024px) {

@@ -14,6 +14,5 @@
     flex-flow: column;
     align-items: flex-start;
     justify-content: space-between;
-    min-height: 248px;
   }
 }

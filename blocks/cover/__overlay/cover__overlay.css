@@ -2,7 +2,6 @@
   display: flex;
   position: relative;
   width: 100%;
-  max-height: 760px;
   text-decoration: none;
   flex-flow: column;
   z-index: 3;

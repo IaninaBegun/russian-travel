@@ -1,14 +1,9 @@
 .intro {
   max-width: 690px;
   justify-content: start;
-  margin-top: 92px;
-  margin-bottom: 92px;
-  margin-left: 11.5%;
+  margin-left: 148px;
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 900px) {
-  .intro {
-    margin-left: 0;
-  }
-}
+
+
