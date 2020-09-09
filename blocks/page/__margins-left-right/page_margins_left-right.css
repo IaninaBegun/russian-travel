@@ -1,19 +1,19 @@
 @media screen and (max-width: 1024px) {
-  .page_margins_left-right {
+  .page__margins-left-right {
     margin-left: 48px;
     margin-right: 48px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .page_margins_left-right {
+  .page__margins-left-right {
     margin-left: 24px;
     margin-right: 24px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .page_margins_left-right {
+  .page__margins-left-right {
     margin-left: 16px;
     margin-right: 16px;
   }

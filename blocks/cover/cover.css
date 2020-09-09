@@ -12,7 +12,7 @@
   background-image: url(../../sprint-3-images/sprint-3-images/cover-trains.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 0% 0%;
+  background-position: center;
 }
 
 @media screen and (max-width: 1024px) {

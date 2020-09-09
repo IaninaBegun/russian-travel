@@ -1,17 +1,17 @@
-.page_margins_top-bottom {
+.page__margins-top-bottom {
   margin-top: 92px;
   margin-bottom: 92px;
 }
 
 @media screen and (max-width: 768px) {
-  .page_margins_top-bottom {
+  .page__margins-top-bottom {
     margin-top: 88px;
     margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .page_margins_top-bottom {
+  .page__margins-top-bottom {
     margin-top: 64px;
     margin-bottom: 64px;
   }
